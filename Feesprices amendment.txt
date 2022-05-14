@@ -1,0 +1,32 @@
+Okay, 
+
+So as I mentioned yesterday, the 'Value' that comes out of the calculator is the premium that goes to the insurance underwriters to insure the risk for the 12 month period.
+
+As Lancaster (And other future clients) will be brokers, they make a fee to distribute and look after the policy.
+
+Because of this, one thing that will be getting A/B tested to maximise CRO and AOV will be the total price. The 'arrangement fee' will be between £0 and £40.
+
+So, next to the 'Premium' column that comes out the calculator, we need the price (i.e. what the customer receives), so the adjacent row will need to be 'Value + x', with x being 0-70 depending on what we want it at.
+
+Secondly, as mentioned, customers can pay monthly. Depending on ages of drivers products etc this recommends a good A/B test for the copy as different people have different spending methods.
+
+The deposit will always be 20% of the total customer final price, so this needs to have a built in excel calculator.
+
+Finally, the monthly instalment price. This will be the total customer final price multiplied by 0.8 (Leftover price minus the deposit) 
+
+The 80% of the price needs to be multiplied by 16% (The 16% is the interest a third party financial credit provider make)
+
+It then needs to be divided by 10, making up the figure for ten monthly instalments.
+
+EXAMPLE.
+
+
+Risk goes through calc, the premiumm fired out is £312.44
+
+We're testing an arrangement fee of £40, so the customer price is £352.44
+
+The deposit is 20% of the customer price, so that will be £70.49
+
+The ten monthly instalments are £32.71, after the interest is added.
+
+Probably easiest if the four Columns in the qzone sheets read as 'PREMIUM' 'PREMIUM + FEE' 'DEPOSIT' 'MONTHLY INSTALLMENTS'
